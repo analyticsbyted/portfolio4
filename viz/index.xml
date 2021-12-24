@@ -7,6 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://analyticsbyted.github.io/portfolio/viz/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Covid Dashboard Project</title>
+      <link>https://analyticsbyted.github.io/portfolio/viz/project-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://analyticsbyted.github.io/portfolio/viz/project-5/</guid>
+      <description>Covid Global Infections and Deaths
+This dashboard tracks worldwide covid cases and deaths.
+ Key numbers show global total cases, total deaths and percentage of deaths rate. World map depicts regions or world based on percentage of a country&amp;rsquo;s population infected. Bar charts hights total deaths segmented by continent. Time series and forecasting line chart shows actual and estimated percentage of total population infected.   Project Link to Tableau Public</description>
+    </item>
+    
+    <item>
       <title>Halloween Candy Project Dashboard</title>
       <link>https://analyticsbyted.github.io/portfolio/viz/project-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

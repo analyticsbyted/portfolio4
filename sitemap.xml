@@ -2,16 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://analyticsbyted.github.io/portfolio/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://analyticsbyted.github.io/portfolio/post/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://analyticsbyted.github.io/portfolio/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -21,6 +11,14 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://analyticsbyted.github.io/portfolio/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://analyticsbyted.github.io/portfolio/viz/project-5/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://analyticsbyted.github.io/portfolio/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -45,6 +43,10 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://analyticsbyted.github.io/portfolio/post/project-4/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://analyticsbyted.github.io/portfolio/post/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>

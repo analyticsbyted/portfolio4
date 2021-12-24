@@ -5,8 +5,7 @@
     <link>https://analyticsbyted.github.io/portfolio/</link>
     <description>Recent content in Data Science Portfolio on Ted Dickey</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://analyticsbyted.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://analyticsbyted.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
       <link>https://analyticsbyted.github.io/portfolio/contact/</link>
@@ -15,6 +14,17 @@
       <guid>https://analyticsbyted.github.io/portfolio/contact/</guid>
       <description>Follow me on these social media platforms.
    Platform URL     Twitter: https://twitter.com/tdickey8484   LinkedIn: https://www.linkedin.com/in/teddickey/   Github: https://github.com/analyticsbyted    </description>
+    </item>
+    
+    <item>
+      <title>Covid Dashboard Project</title>
+      <link>https://analyticsbyted.github.io/portfolio/viz/project-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://analyticsbyted.github.io/portfolio/viz/project-5/</guid>
+      <description>Covid Global Infections and Deaths
+This dashboard tracks worldwide covid cases and deaths.
+ Key numbers show global total cases, total deaths and percentage of deaths rate. World map depicts regions or world based on percentage of a country&amp;rsquo;s population infected. Bar charts hights total deaths segmented by continent. Time series and forecasting line chart shows actual and estimated percentage of total population infected.   Project Link to Tableau Public</description>
     </item>
     
     <item>
